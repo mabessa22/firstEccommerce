@@ -1,0 +1,12 @@
+2022-07-25T08:58:08+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-admin\includes\media.php on line 3827
+
+2022-07-25T08:58:40+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version3\class-wc-rest-report-orders-totals-controller.php on line 128
+
+2022-07-25T08:58:40+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-includes\class-wp-theme.php on line 1241
+
+2022-07-25T09:10:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-content\plugins\woocommerce\includes\emails\class-wc-email.php on line 12
+
+2022-07-25T09:10:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-includes\template.php on line 709
+
+2022-07-25T12:46:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-content\plugins\payment-gateway-stripe-and-woocommerce-integration\includes\class-stripe-oxxo.php on line 3
+

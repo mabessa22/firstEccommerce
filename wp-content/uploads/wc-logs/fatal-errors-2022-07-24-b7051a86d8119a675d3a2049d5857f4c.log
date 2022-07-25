@@ -1,0 +1,4 @@
+2022-07-24T03:59:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-content\plugins\elementor\includes\autoloader.php on line 265
+
+2022-07-24T03:59:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-content\plugins\elementor\core\app\modules\kit-library\module.php on line 13
+
